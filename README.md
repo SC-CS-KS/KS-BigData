@@ -37,4 +37,7 @@
 
 ## Resources
 * [大数据学习资源](https://yq.aliyun.com/articles/37308?spm=a2c4e.11155435.0.0.76751373Z8lEnY)
+* [在数据分析、挖掘方面，有哪些好书值得推荐？](https://www.zhihu.com/question/20757000?sort=created)
+
+
 
