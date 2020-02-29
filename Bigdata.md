@@ -35,4 +35,5 @@
 # [组件](components/README.md)
 ## [Apache Zeppelin](components/Apache-Zeppelin/README.md)
 
-## [数据平台](data-platform/README.md)
+# [数据平台](data-platform/README.md)
+## [数据中台](data-platform/DataMiddleGround/README.md)
