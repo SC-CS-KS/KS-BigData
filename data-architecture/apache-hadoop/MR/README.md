@@ -1,3 +1,0 @@
-# MapReduce
-
-* [MapReduce](MR.md)
